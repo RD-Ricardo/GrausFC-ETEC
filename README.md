@@ -1,12 +1,12 @@
-## Exercício `GrausCF`
+## Exercício `GrausFC`
 
-Converta uma temperatura digitada pelo usuário em °C para °F.
+Converta uma temperatura digitada pelo usuário em °F para °C.
 
-°F = °C × 1,8 + 32
+°C = (°F − 32) / 1,8
 
 Ref.: [https://pt.wikipedia.org/wiki/Celsius](https://pt.wikipedia.org/wiki/Celsius)
 
 ```
-°C = 0
-0°C equivalem a 32°F
+°F = 0
+0°F equivalem a -17,78°F
 ```
